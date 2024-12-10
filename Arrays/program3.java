@@ -1,5 +1,6 @@
 package Arrays;
-/** Find the largest and smallest number in a given array.
+/** Linear Search:
+ *  Find the largest and smallest number in a given array.
  * Input - int arr[]={44,55,6,3,88,99};
  * output - The largest number is : 99
             The smallest number is : 3

@@ -1,4 +1,5 @@
 package Arrays;
+// Linear Search:
 //Find key from String type data 
 //input - fruit[]={"apple","mango","banana","orange","kiwi"}
 //        key="mango"

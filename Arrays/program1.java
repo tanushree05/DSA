@@ -1,4 +1,5 @@
 package Arrays;
+//Linear Search :
 // Find the index of element in given array.(Linear Search)
 public class program1 {
     public static int find_element(int arr[] ,int key) {
