@@ -4,7 +4,7 @@ package Arrays;
 // key=100;
 //output-The key is found at index :9
 
-//Binary Search
+//Binary Search : Time complexity= O(log n ) < less compareed to linear search = O(n)
 //Prerequisite-sorted Array
 
 public class BinarySearchProg1 {
