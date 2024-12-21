@@ -1,5 +1,5 @@
 package Arrays;
-
+//solution 1
 //Q.Program to find max subarray sum in array using bruteforce approach.TC=O(n^3)
 public class MaxSubarraySum {
     public static void maxSubarraySum(int arr[]) {
