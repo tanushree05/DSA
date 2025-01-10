@@ -1,0 +1,7 @@
+Contructor is a special method which is invoked at a time of object creation.
+- Contructor hava same name as class name.
+- Contructor do not have a return type.
+- Contructor cslled only once at a time of object creation.
+
+Destructors in java:
+Java has no destructor.Instead ,Java has a effecient garbage collector that automatically deallocate memory.

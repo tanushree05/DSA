@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "MaxSubarraySum2",
+            "request": "launch",
+            "mainClass": "Arrays.MaxSubarraySum2",
+            "projectName": "DSA_77514479"
+        },
+        {
+            "type": "java",
+            "name": "program1",
+            "request": "launch",
+            "mainClass": "Arrays.program1",
+            "projectName": "DSA_77514479"
+        },
+        {
+            "type": "java",
             "name": "Classroom",
             "request": "launch",
             "mainClass": "Classroom",

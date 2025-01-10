@@ -1,0 +1,16 @@
+Polymorphisum
+Poly means many.Morphisum meand forms.
+Polymorphisum is the ability to present an interface in diffrent underlying forms(data type).
+
+Complile time polymorthisum :
+
+ - Method overloading
+     -Mutiple function with same name dut diffrent parameter.
+     Calculator{
+        sum(int a,inr b)
+        sum (float a,float b,float c)
+        sum(int a,int b,int c)
+     }
+Runtime polymorthisum:
+ 
+ -Method overriding
